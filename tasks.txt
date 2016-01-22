@@ -1,0 +1,9 @@
+0;Wash dishes;done
+2;Learn programming;archived
+3;Get a job;done
+4;Buy new laptop;active
+5;Call parents;done
+6;Pick up daughter;archived
+7;Make dinner;archived
+8;A proper task!;done
+9;A new active task!;active
